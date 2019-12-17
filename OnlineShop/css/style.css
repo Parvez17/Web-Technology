@@ -1,0 +1,65 @@
+/* Make the image fully responsive */
+
+.btn-btn-warning{
+pointer-events: none;
+}
+
+.carousel-inner img {
+      width: 100%;
+      height: 100%;
+  }
+  .bikroy-slider{
+    background-color: #969696;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-top: -40px;
+  }
+  .bikroy-content{
+   padding-top: 25px;
+   padding-bottom: 25px;
+  }
+  .p{
+    float: right;
+  
+  }
+  .sc-item-img{
+    margin-bottom: 10px;
+  }
+  .image{
+    margin-top: 20px;
+  }
+  .page{
+    margin-top: -20px;
+  }
+
+  /*For dropdown1*/
+  .mega-menu{ 
+   width:900px;
+   overflow: hidden; 
+   padding: 5px;
+   background-color: gray;
+  }
+  .mega-menu a{
+    text-decoration: none;
+    color: skyblue;
+  }
+  .mega-menu .sub-menu-heading{
+    color: orange;
+  }
+  @media(max-width: 500px){
+    .mega-menu{
+     width: 300px;
+    }
+  }
+  .dropdown{
+    width: 950px;
+  }
+
+
+
+
+
+
+
+
+

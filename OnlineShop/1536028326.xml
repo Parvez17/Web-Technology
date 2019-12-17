@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<all_news>
+ <username>
+  <postId>41</postId>
+  <headline>X corolla</headline>
+  <post>food</post>
+  <creationTime>2018-09-04 07:38:14</creationTime>
+  <deletionTime/>
+ </username>
+ <username>
+  <postId>40</postId>
+  <headline>lights</headline>
+  <post>dsds</post>
+  <creationTime>2018-09-04 07:00:12</creationTime>
+  <deletionTime>2018-09-04 07:00:12</deletionTime>
+ </username>
+ <username>
+  <postId>39</postId>
+  <headline>X corolla</headline>
+  <post>New</post>
+  <creationTime>2018-09-04 05:34:35</creationTime>
+  <deletionTime>2018-09-04 05:34:35</deletionTime>
+ </username>
+ <username>
+  <postId>38</postId>
+  <headline>flower</headline>
+  <post>flower shop</post>
+  <creationTime>2018-09-04 05:37:01</creationTime>
+  <deletionTime>2018-09-04 05:37:01</deletionTime>
+ </username>
+ <username>
+  <postId>37</postId>
+  <headline>Logo designing</headline>
+  <post>Logo designing is my passion you can hire me.</post>
+  <creationTime>2018-09-04 05:43:36</creationTime>
+  <deletionTime>2018-09-04 05:43:36</deletionTime>
+ </username>
+ <username>
+  <postId>36</postId>
+  <headline>Lighting</headline>
+  <post>One kind of neon lights that glow at night in dark.</post>
+  <creationTime>2018-09-03 05:35:25</creationTime>
+  <deletionTime/>
+ </username>
+</all_news>
